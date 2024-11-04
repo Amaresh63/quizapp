@@ -1,0 +1,12 @@
+com\telusko\Quiz\controller\QuizController.class
+com\telusko\Quiz\QuizApplication.class
+com\telusko\Quiz\service\QuizServiceImplementation.class
+com\telusko\Quiz\service\QuizService.class
+com\telusko\Quiz\entity\Quiz.class
+com\telusko\Quiz\controller\QuizCompController.class
+com\telusko\Quiz\entity\QuizComp.class
+com\telusko\Quiz\service\QuizCompService.class
+com\telusko\Quiz\repository\QuizCompRepository.class
+com\telusko\Quiz\repository\QuizRepository.class
+com\telusko\Quiz\entity\QuizWrapper.class
+com\telusko\Quiz\service\QuizCompServiceImplementation.class
